@@ -1,2 +1,0 @@
-# bootcampX
-first PSQL db
